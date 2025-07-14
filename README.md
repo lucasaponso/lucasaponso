@@ -1,9 +1,14 @@
 # 💫 About Me:
-Hi I'm Lucas, an undergraduate student currently studying the Bachelor of Software Engineering at RMIT University. 
+Hi I'm Lucas, an undergraduate studying the Bachelor of Software Engineering at RMIT University. 
 <br>
-- Specializing in Full Stack Development alongside CI/CD Pipeline integration! 
+
+- Specializing in low-latency systems
+- Strong foundation in:
+  - C/C++ (POSIX)
+  - Embedded Systems
+  - FPGA Development (Verilog, VHDL)
 - Active Co-Founder & CEO<br>of DataFarm Technologies Pty Ltd.
-- Versatile Engineer, industry experience in Embedded Systems in Telecommunications at Avara Technologies Pty Ltd. 
+- Versatile Engineer, industry experience in safety-critical environments
 
 
 ## 🌐 Socials:
